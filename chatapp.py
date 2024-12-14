@@ -99,7 +99,6 @@ def main():
                 st.success("Done")
         
         st.write("---")
-        st.image("img/gkj.jpg")
         st.write("AI App created")  # add this line to display the image
 
 
